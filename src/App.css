@@ -1,10 +1,13 @@
 .tweet {
-  border:1px solid #282c34;
-  text-align: center;
+  height: 100hv;
+  background:whitesmoke;
 }
 
 .app {
-  height: 100vh;
+  height: 300px;
+  width: 300px;
   background: #7d9bd8;
   text-align: center;
+  display: flex;
+  flex-direction: column;
 }
