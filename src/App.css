@@ -4,10 +4,16 @@
 }
 
 .app {
-  height: 300px;
-  width: 300px;
-  background: #7d9bd8;
+  height: 100px;
+  width: 200px;
+  background: #1647a8;
   text-align: center;
   display: flex;
   flex-direction: column;
+  justify-content:center;
+}
+
+body {
+background: -o-repeating-linear-gradient(blue,green,yellow)
+
 }
